@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OIO",
+    "TUI",
+    "OIO"
+  ],
+  "key": {
+    "O": "minecraft:obsidian",
+    "T": "minecraft:tnt",
+    "U": "nuketnt:nuke_item",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "nuketnt:nuke_block",
+    "count": 1
+  }
+}

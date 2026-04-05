@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "nuketnt:block/nuke_top",
+    "down": "nuketnt:block/nuke_bottom",
+    "north": "nuketnt:block/nuke_side",
+    "south": "nuketnt:block/nuke_side",
+    "east": "nuketnt:block/nuke_side",
+    "west": "nuketnt:block/nuke_side",
+    "particle": "nuketnt:block/nuke_side"
+  }
+}
